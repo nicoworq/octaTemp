@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 01-feb-2018, 19:33:50
+    Author     : Nico
+*/
+
+#myChart{
+
+}
+
+.temperatura-valor{
+    max-width: 200px;
+    margin: 20px auto 40px;
+    box-shadow: 0px 3px 5px #eaeaea;
+    padding: 10px;
+}
+.temperatura-valor h1{
+    text-align: center;
+}
+.temperatura-valor h3{
+    text-align: center;
+}
+.temperatura-valor h5{
+    text-align: center;
+}
+
+
+.titulo-seccion{
+    font-size: 26px;
+    padding-left: 5px;
+}
